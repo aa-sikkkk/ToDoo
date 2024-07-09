@@ -15,10 +15,15 @@
   <a href="#getting-started">🪧Getting Started</a> •
   <a href="#usage">✅ Usage</a> •
   <a href="#project-structure">📋 Project Structure</a> •
-  <a href="#license">🎟️ License</a> •
+  <a href="#license">🎟️ License</a> 
+</p>
+
+<p align="center">
+ <img src="https://github.com/aa-sikkkk/ToDoo/assets/152005759/3b69a47e-0882-4514-9b57-45c6b6398a63" alt="To-Do List Icon" width="400" height="350">
 </p>
 
 ## Features
+
 
 <ul>
   <li><strong>Add Tasks:</strong> Users can add new tasks to the ToDOO list.</li>
