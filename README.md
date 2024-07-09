@@ -6,6 +6,7 @@
 
 <p align="center">
   <strong>A simple and interactive To-Do List application.</strong>
+  <br>Project Link: <a href="https://todoo-peach.vercel.app/">The ToDOO</a>
 </p>
 
 <p align="center">
@@ -78,4 +79,3 @@ to-do-list/
 ## License
 Distributed under the GNU General Public License. See <code><a href="https://github.com/aa-sikkkk/ToDoo/blob/master/LICENSE">LICENSE</a></code> for more information.
 
-Project Link: <a href="">Check Out the ToDOO</a>
