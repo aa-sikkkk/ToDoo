@@ -45,7 +45,7 @@
 To get started with the project, follow these Steps!!
 ### Prerequisites
 
-Download the Live Server Extension!
+Download the <code>Live Server</code> Extension!
 
 ### Installation
 
