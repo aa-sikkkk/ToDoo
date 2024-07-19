@@ -1,4 +1,4 @@
-# To-Do List Application
+# ToDOO List Application
 
 <p align="center">
   <img src="https://github.com/aa-sikkkk/ToDoo/assets/152005759/2f193735-0559-455d-82ff-8ffd0830f490" alt="To-Do List Icon" width="200">
